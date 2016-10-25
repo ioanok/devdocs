@@ -19,7 +19,7 @@ We will take the plugin result from the last tutorial as basis for this tutorial
 
 The `Shopware.window.Detail` for the detail window was implemented in `Views/backend/swag_product/view/detail/window.js`.
 
-The `Shopware.model.Container` for more detailed configuration of the detail window in `Views/backend/swag_product/view/list/window.js`.
+The `Shopware.model.Container` for more detailed configuration of the detail window in `Views/backend/swag_product/detail/product.js`.
 
 <div class="toc-list"></div>
 
